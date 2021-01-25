@@ -1,2 +1,2 @@
 # assets
-Графика и прочие штуки, принадлежащие Соломонику
+Graphics & stuff related to Solomonic
